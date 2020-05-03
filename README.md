@@ -1,5 +1,5 @@
 # Ritz-Jager-Hotel-Data-Analysis
-![Image of Yaktocat](https://www.iykra.com/pluginfile.php/29712/mod_assign/intro/2346824.jpg)
+![Image of Hotel](https://image.freepik.com/free-vector/_23-2148146118.jpg)
 
 You’ve landed a great job with the Ritz-Jager Hotel operator as a data scientist. This hotel operator wants to improve their business efficiency by utilizing their historical data and they want to find out what happened in their previous bookings, knowing their customer better, and optimizing the promo timing.
 
